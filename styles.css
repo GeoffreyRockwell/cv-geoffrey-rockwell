@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 2em;
+  line-height: 1.6;
+  background-color: #fdfdfd;
+  color: #333;
+}
+
+header {
+  border-bottom: 2px solid #444;
+  margin-bottom: 1em;
+}
+
+h1 {
+  font-size: 2em;
+  margin-bottom: 0;
+}
+
+h2 {
+  color: #00539C;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.3em;
+}
+
+h3 {
+  margin-top: 1em;
+  color: #0077aa;
+}
+
+ul {
+  padding-left: 1.2em;
+}
+
+footer {
+  border-top: 1px solid #aaa;
+  margin-top: 2em;
+  padding-top: 1em;
+  font-size: 0.9em;
+}
